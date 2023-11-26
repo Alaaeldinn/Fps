@@ -27,4 +27,4 @@ First Person Shooter game developed in Unity. This project serves as a foundatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Alaaeldinn/FPS.git
+   git clone https://github.com/Alaaeldinn/Fps.git
